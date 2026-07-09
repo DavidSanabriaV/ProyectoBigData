@@ -1,4 +1,4 @@
-#2 Visualizacon de datos
+#2. Visualizacon de datos
 import pandas as pd
 import matplotlib.pyplot as plt
 
